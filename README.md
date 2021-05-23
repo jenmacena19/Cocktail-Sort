@@ -1,6 +1,6 @@
 # Cocktail-Sort
 
-Trabalho desenvolvido na disciplina de Algoritmo e Estrutura de Dados 2
+Trabalho desenvolvido na disciplina de Algoritmos e Estruturas de Dados 2
 * Conteúdo: Método de Ordenação Cocktail-Sort
 * Equipe: Raquel Lais, Jeniffer Macena, Marcos Andrade
 
